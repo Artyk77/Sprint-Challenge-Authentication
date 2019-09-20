@@ -54,7 +54,7 @@ Creates a function that is not reversible, there is no algorithm that evaluates 
 
 - Header 
     - Payload
-       - Signature
+       -  Secret
 
 
 ## Minimum Viable Product
